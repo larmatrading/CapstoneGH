@@ -1,2 +1,0 @@
-# CapstoneGH
-Capstone Project
