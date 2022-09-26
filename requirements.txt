@@ -2,4 +2,12 @@ pandas
 numpy
 matplotlib
 statsmodels
-
+sklearn
+jupyter_dash
+dash
+dash_bootstrap_components
+dash_core_components
+dash_html_components
+plotly
+io 
+base64
