@@ -4,4 +4,4 @@ matplotlib
 statsmodels
 sklearn
 plotly
-base64
+dash
