@@ -5,6 +5,7 @@ statsmodels
 sklearn
 plotly
 dash
+jupyterlab-dash
 jupyter_dash
 dash_bootstrap_components
 dash_core_components
